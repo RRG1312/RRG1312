@@ -1,4 +1,12 @@
-## Hi there 👋
+# 💫 About Me:
+👨🏻‍💻 Passionate about technology, cybersecurity, and programming, always eager to learn, improve, and embrace challenges. 🛡️ Devoted to advancing cybersecurity knowledge and exploring the depths of information, on a perpetual quest for innovation and excellence.<br><br>Studying how to enhance cybersecurity and uncovering hidden knowledge, I am dedicated to continuous learning and self-improvement.
+
+## 📫 Contact Me:
+- LinkedIn: [ruben rodriguez](https://www.linkedin.com/in/ruben-rodriguez-193a71212/)
+<!-- Twitter: [@notengodemomento](https://twitter.com/nottoday)
+- Instagram: [@notengodemomento](https://www.instagram.com/)-->
+
+Feel free to connect and collaborate! 🚀
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RRG1312&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
