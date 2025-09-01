@@ -1,10 +1,11 @@
 # 💫 About Me:
-👨🏻‍💻 Passionate about technology, cybersecurity, and programming, always eager to learn, improve, and embrace challenges. 🛡️ Devoted to advancing cybersecurity knowledge and exploring the depths of information, on a perpetual quest for innovation and excellence.<br><br>Studying how to enhance cybersecurity and uncovering hidden knowledge, I am dedicated to continuous learning and self-improvement.
+🚀 Driven by curiosity and a passion for innovation, I focus on exploring the world of web development and artificial intelligence. 👨🏻‍💻 I enjoy bringing ideas to life through code, blending creativity with technology to build impactful solutions.<br><br>Currently in the final year of my Computer Engineering degree, I’m working toward becoming a full-stack developer while specializing in AI. Constantly learning and improving, I see every challenge as a chance to grow and shape the future with technology.
+
 
 ## 📫 Contact Me:
 - LinkedIn: [ruben rodriguez](https://www.linkedin.com/in/ruben-rodriguez-193a71212/)
-<!-- Twitter: [@notengodemomento](https://twitter.com/nottoday)
-- Instagram: [@notengodemomento](https://www.instagram.com/)-->
+<!-- Twitter: [@notengodemomento](https://twitter.com/nottoday)-->
+- Instagram: [@rubenshoww](https://www.instagram.com/rubenshoww)
 
 Feel free to connect and collaborate! 🚀
 
