@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username=RRG1312&show_icons=true&theme=dark
+
+
+
+
 <!--
 **RRG1312/RRG1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
