@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=RRG1312&show_icons=true&theme=dark
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RRG1312&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RRG1312&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RRG1312&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RRG1312&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
