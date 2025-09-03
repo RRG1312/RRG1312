@@ -21,8 +21,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=RRG1312&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 
-
-
+## 📄 CV Digital
+https://cv-rrg1312.vercel.app/
 
 <!--
 **RRG1312/RRG1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
