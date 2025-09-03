@@ -22,7 +22,7 @@
 
 
 ## 📄 CV Digital
-[![Preview de mi CV](https://raw.githubusercontent.com/rrg1312/rrg1312/portada_cv.png)](https://cv-rrg1312.vercel.app/)
+[![Preview de mi CV](https://raw.githubusercontent.com/rrg1312/rrg1312/main/portada_cv.png)](https://cv-rrg1312.vercel.app/)
 
 <!--
 **RRG1312/RRG1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
